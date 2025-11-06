@@ -39,6 +39,10 @@ el otro campoo de la contraseña nos servirá para comparar las dos contraseñas
 y este debe tener un @, en caso contrario nos saltará un error o ya sea porque las  dos contraseñas no coincidas o bien porque ninguno de los campos tiene texto
 Abajo tenemos un editText que nos llevará a la ventana de login, en caso de que ya estemos registrados
 
+![image alt](https://github.com/CrisitanLalangui/MIPrimeraApp/blob/da926d103658ef60beb3970cb5fc9027a5f0f24e/reigistroConerroes.png)
+
+
+
 
 
 En main tenemos dos textos, el primer significa el tiempo total que nos ha llevado logearnos en la aplicación, 
