@@ -16,6 +16,9 @@ Lo segundo que se ha hecho es crear un Login, con dos campos, uno para el  nombr
 si la contraseña no es correcta con el usuario que se ha creado nos saltará un error en los campos, marcándolos de rojos.
 También tenemos un botón para enviar la inforación escrita en los campos, y esto pasará directamente al main
 
+![image alt](https://github.com/CrisitanLalangui/MIPrimeraApp/blob/50745036617d447651efe6acc60ba70555ad530f/reigistroConerroes.png)
+
+
 Abajo tenemos un editText que nos llevará a la ventana de register, en caso de que no nos hayamos registrado
 
 
