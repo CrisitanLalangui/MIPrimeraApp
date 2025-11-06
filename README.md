@@ -8,6 +8,8 @@ En este código se ha creado una  aplicación desde cero, poniendo en práctica 
 Lo primero que se ha hecho es el Splash Screen, para ello hemos añadido la dependencia Glit, que nos permitirá ver una imagen con acceso a internet, dandoles permisos
 Esto tiene una duración aproximada de 1000 milisegundos
 
+![image alt](https://github.com/CrisitanLalangui/MIPrimeraApp/blob/ead281ff4f9f4be196290926efb6c37cb9ab6511/SplashImagen.png)
+
 Lo segundo que se ha hecho es crear un Login, con dos campos, uno para el  nombre de usuario y otro para la contraseña que se ha creado en el register,
 
 ![image alt](https://github.com/CrisitanLalangui/MIPrimeraApp/blob/bc0477577a7fe662611cc611d305bec6e8377994/InicioSesi%C3%B3nEst%C3%A1ndar.png)
