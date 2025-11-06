@@ -48,8 +48,10 @@ Abajo tenemos un editText que nos llevará a la ventana de login, en caso de que
 En main tenemos dos textos, el primer significa el tiempo total que nos ha llevado logearnos en la aplicación, 
 El segundo texto hace referencia, a un saludo, dirigiéndose, al nombre de usuario que ha escrito la persona que accedió a la aplicación.
 
+![image alt](https://github.com/CrisitanLalangui/MIPrimeraApp/blob/9bb4c019a88bcbedc0b8ff6072591a9561fd34ea/main.png)
 
-t
+
+
 
 
 
